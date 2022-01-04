@@ -12,7 +12,7 @@ This database is meant to serve avid movie watchers, reviewers and even data ana
 ## Table of Contents
 
 - [Movies Data - ETL (Extract, Transform, and Load)](#movies-data---etl-extract-transform-and-load)
-  - [Background]
+  - [Background](#background)
   - [Table of Contents](#table-of-contents)
   - [ETL Process](#etl-process)
     - [Step 1: Extract](#step-1-extract)
