@@ -22,7 +22,7 @@ This database is meant to serve avid movie watchers, reviewers and even data ana
   - [Setup](#setup)
   - [Team](#team)
 
-## ETL 
+## ETL Process
 
 - A beneficial tool that we used in order to understand and build strong relationships for this database was the use of an ERD (Entity Relationship Diagram) built in [Quick DBD](https://www.quickdatabasediagrams.com/).
 - This allowed to somewhat work backwards by choosing the kind of data that was relevent and showed us far we had to normalize the data.
